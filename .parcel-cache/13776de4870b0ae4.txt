@@ -1,5 +1,5 @@
-9145
-60C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\docs133187147306892170 1
+9148
+60C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\docs133187160085069612 1
 129C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\core\node_modules\@parcel\package-manager\src\Npm.js133186007864215511 0
 63C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\src\css133186635375274055 1
 105C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\bootstrap\scss\mixins\_backdrop.scss133186011109580000 0
@@ -37,7 +37,7 @@
 142C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\fs\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest4.c133186011144660000 0
 118C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\__MACOSX\src\ai2html-output\ai2html-images\._doge_1-mobile.jpg133185486300000000 0
 112C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\parcel\node_modules\@parcel\fs\src\index.js133186011358460000 0
-60C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist133187149845853357 1
+60C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist133187159521125364 1
 134C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\js-sdsl\dist\cjs\container\TreeContainer\Base\TreeIterator.js.map133186011296580000 0
 123C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\parcel-transformer-ejs\node_modules\@parcel\diagnostic133186017727083765 1
 107C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\svgo\plugins\convertEllipseToCircle.js133186011474450000 0
@@ -189,7 +189,7 @@
 120C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@swc\helpers\src\_unsupported_iterable_to_array.mjs133186011486720000 0
 91C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\yocto-queue\index.d.ts133186011353510000 0
 119C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\transformer-react-refresh-wrap\lib\helpers133186012164951121 1
-66C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\src\assets133187140103915655 1
+66C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\src\assets133187159089047614 1
 100C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\css-select\lib\compile.d.ts.map133186011535740000 0
 123C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb.c133186011508250000 0
 110C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\eslint\lib\rules\no-dupe-class-members.js133186011249440000 0
@@ -261,7 +261,7 @@
 83C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@humanwhocodes133186008273776069 1
 143C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\transformer-sass\node_modules\@parcel\diagnostic\src\diagnostic.js133186011119110000 0
 88C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\esquery\license.txt133186011285150000 0
-73C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\src\assets\one.ai133187140103685647 0
+73C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\src\assets\one.ai133187159089017608 0
 122C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\parcel-transformer-ejs\node_modules\@parcel\cache\src133186017730344012 1
 144C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\transformer-sass\node_modules\@parcel\utils\src\prettyDiagnostic.js133186011144550000 0
 91C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\picomatch\lib\parse.js133186011158170000 0
@@ -460,7 +460,7 @@
 98C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\eslint\lib\rules\sort-keys.js133186011249440000 0
 124C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\parcel\node_modules\@parcel\package-manager\src\Yarn.js133186008155156043 0
 132C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\parcel-transformer-ejs\node_modules\lmdb\src\ordered-binary.cpp133186011144660000 0
-89C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\src\ai2html-output\ai2html-images133187149838436448 1
+89C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\src\ai2html-output\ai2html-images133187159073726470 1
 92C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\js-yaml\lib\type\set.js133186011296810000 0
 90C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\posthtml\node_modules133185954999928316 1
 91C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\src\ai2html-output\ai2html-test.ejs133185486300000000 0
@@ -490,7 +490,7 @@
 79C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\parcel\lib133186017731644112 1
 85C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\src\ai2html-output\doge_3.ejs133185486300000000 0
 90C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\csso\dist\csso.min.js133186011537140000 0
-82C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\src\ai2html-output\one.ejs133187149838476413 0
+82C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\src\ai2html-output\one.ejs133187159073766452 0
 120C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.c133186011508250000 0
 124C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\caniuse-lite\data\features\mdn-text-decoration-color.js133186011512850000 0
 92C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\ansi-regex\package.json133186011338460000 0
@@ -591,7 +591,7 @@
 114C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\bootstrap\dist\js\bootstrap.bundle.min.js.map133186011109580000 0
 92C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\doctrine\lib\utility.js133186011278460000 0
 97C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\type-fest\source\except.d.ts133186011331740000 0
-102C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\src\ai2html-output\ai2html-images\one-wide.png133187149824095373 0
+102C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\src\ai2html-output\ai2html-images\one-wide.png133187159040117184 0
 105C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\src\ai2html-output\ai2html-images\doge_2-wide.jpg133185486300000000 0
 114C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\packager-js\lib\GlobalOutputFormat.js133186011407090000 0
 102C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\svgo\plugins\removeXMLProcInst.js133186011474450000 0
@@ -606,9 +606,9 @@
 95C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\js-yaml\lib\type\binary.js133186011296810000 0
 97C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\bootstrap\scss\_tooltip.scss133186011109580000 0
 139C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\parcel-transformer-ejs\node_modules\@parcel\logger\test\Logger.test.js133186011138160000 0
-104C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\src\ai2html-output\ai2html-images\one-medium.png133187149828007808 0
-104C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\src\ai2html-output\ai2html-images\one-mobile.png133187149838359376 0
-103C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\src\ai2html-output\ai2html-images\one-small.png133187149833828128 0
+104C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\src\ai2html-output\ai2html-images\one-medium.png133187159044765632 0
+104C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\src\ai2html-output\ai2html-images\one-mobile.png133187159073671872 0
+103C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\src\ai2html-output\ai2html-images\one-small.png133187159048789056 0
 138C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\parcel-transformer-ejs\node_modules\@parcel\workers\src\childState.js133186011126100000 0
 140C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\transformer-sass\node_modules\@parcel\utils\src\prettifyTime.js133186011144550000 0
 122C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\update-browserslist-db\node_modules\.bin\browserslist133186017782947962 0
@@ -1015,6 +1015,7 @@
 85C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\lmdb\binding.gyp133186011508250000 0
 107C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\source-map\lib\source-map-generator.js133186011554270000 0
 76C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\flatted133186012143179511 1
+84C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\docs\one-mobile.c96fdbef.png133187160085039629 0
 123C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\js-sdsl\dist\cjs\container\HashContainer\Base\index.js133186011296580000 0
 89C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\csso\lib\compress.js133186011537140000 0
 98C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\posthtml-parser\dist\index.js133186011484690000 0
@@ -1801,7 +1802,7 @@
 99C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\eslint\lib\rules\complexity.js133186011249440000 0
 90C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\msgpackr\iterators.js133186011199590000 0
 131C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\core\test\fixtures\invalid-source-missing\package.json133186011354750000 0
-71C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\docs\index.html133187146721965689 0
+71C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\docs\index.html133187160085039629 0
 140C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\transformer-sass\node_modules\@parcel\workers\lib\childState.js133186011126100000 0
 114C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\js-sdsl\dist\esm\container\TreeContainer\Base133186012179402208 1
 98C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\uri-js\dist\esnext\uri.js.map133186011321900000 0
@@ -2808,7 +2809,7 @@
 95C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\path-is-absolute\readme.md133186011351780000 0
 126C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\js-sdsl\dist\esm\container\SequentialContainer\Deque.d.ts133186011296580000 0
 103C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\node-resolver-core\LICENSE133186011476750000 0
-84C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\one-mobile.a7d8851c.png133187149828535698 0
+84C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\one-mobile.a7d8851c.png133187159520235307 0
 102C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@swc\helpers\src\_await_value.mjs133186011486720000 0
 94C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\parcel\src\.eslintrc.json133186011354160000 0
 89C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\path-exists\index.js133186011331700000 0
@@ -3283,7 +3284,7 @@
 114C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\caniuse-lite\data\features\urlsearchparams.js133186011512850000 0
 138C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\core\node_modules\@parcel\workers\lib\threads\ThreadsChild.js133186007839863639 0
 143C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\parcel-transformer-ejs\node_modules\@parcel\utils\src\isDirectoryInside.js133186011144550000 0
-87C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\doge_1-mobile.9e64bbdc.jpg133187149828605710 0
+87C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\doge_1-mobile.9e64bbdc.jpg133187159519565265 0
 85C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\p-locate\license133186011342380000 0
 139C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\parcel\node_modules\@parcel\workers\test\integration\workerfarm\ipc.js133186008146695439 0
 99C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\commander\package-support.json133186011371900000 0
@@ -4328,7 +4329,7 @@
 81C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\levn\LICENSE133186011299320000 0
 86C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\levn\package.json133186011299320000 0
 83C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\levn\README.md133186011299320000 0
-87C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\doge_2-mobile.d7177a4a.jpg133187149828615709 0
+87C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\doge_2-mobile.d7177a4a.jpg133187159519575254 0
 85C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\levn\lib\cast.js133186011299320000 0
 103C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\.min-document-Y6ezDmLU\.travis.yml133185953513710000 0
 103C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\core\lib\resolveOptions.js133186011354750000 0
@@ -4447,7 +4448,7 @@
 124C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\core\node_modules\@parcel\types\lib\unsafe.d.ts133186007873066264 0
 111C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\htmlnano\docs\versioned_docs\version-2.0.0133186012176522003 1
 87C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\async\package.json133186011576860000 0
-87C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\doge_3-mobile.7689c91b.jpg133187149828745735 0
+87C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\doge_3-mobile.7689c91b.jpg133187159519765415 0
 93C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\js-yaml\lib\type\omap.js133186011296810000 0
 87C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\boolbase\README.md133186011550720000 0
 92C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\js-yaml\lib\type\seq.js133186011296810000 0
@@ -4525,7 +4526,7 @@
 107C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\core\test\fixtures\module-a.js133186011354750000 0
 126C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\fs\node_modules\@parcel\workers\lib\childState.js133186011126100000 0
 129C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\js-sdsl\dist\esm\container\SequentialContainer\LinkList.d.ts133186011296580000 0
-85C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\doge_3-wide.8a8ba97e.jpg133187149828835712 0
+85C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\doge_3-wide.8a8ba97e.jpg133187159520335335 0
 127C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\js-sdsl\dist\esm\container\SequentialContainer\LinkList.js133186011296580000 0
 131C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\js-sdsl\dist\esm\container\SequentialContainer\LinkList.js.map133186011296580000 0
 113C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\transformer-postcss\lib\constants.js133186011427580000 0
@@ -4589,7 +4590,7 @@
 129C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\js-sdsl\dist\cjs\container\SequentialContainer\Base\index.js133186011296580000 0
 140C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\js-sdsl\dist\cjs\container\SequentialContainer\Base\RandomIterator.d.ts133186011296580000 0
 138C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\js-sdsl\dist\cjs\container\SequentialContainer\Base\RandomIterator.js133186011296580000 0
-85C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\doge_2-wide.c0f02dea.jpg133187149828495691 0
+85C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\doge_2-wide.c0f02dea.jpg133187159520075286 0
 90C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\ajv\lib\dotjs\enum.js133186011273310000 0
 107C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@swc\helpers\src\_get_prototype_of.mjs133186011486720000 0
 92C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\escalade\dist\index.mjs133186011549580000 0
@@ -5658,7 +5659,7 @@
 105C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\caniuse-lite\data\browserVersions.js133186011512850000 0
 92C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\async\dist\async.min.js133186011576860000 0
 109C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\csso\lib\replace\property\font-weight.js133186011537140000 0
-87C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\doge_3-medium.b201fcda.jpg133187149828855748 0
+87C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\doge_3-medium.b201fcda.jpg133187159520185325 0
 98C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\csso\lib\clean\Declaration.js133186011537140000 0
 98C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\caniuse-lite\data\browsers.js133186011512850000 0
 91C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\csso\lib\clean\Rule.js133186011537140000 0
@@ -6424,7 +6425,7 @@
 114C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\caniuse-lite\data\features\input-selection.js133186011512850000 0
 96C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\packager-js\LICENSE133186011407090000 0
 122C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\caniuse-lite\data\features\intersectionobserver-v2.js133186011512850000 0
-93C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\ai2html-test-mobile.a38bf855.png133187149828535698 0
+93C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\ai2html-test-mobile.a38bf855.png133187159519555252 0
 115C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\caniuse-lite\data\features\intl-pluralrules.js133186011512850000 0
 107C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\caniuse-lite\data\features\jpeg2000.js133186011512850000 0
 119C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\caniuse-lite\data\features\js-regexp-lookbehind.js133186011512850000 0
@@ -6831,7 +6832,7 @@
 92C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\balanced-match\index.js133186011344260000 0
 86C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\async\allLimit.js133186011576860000 0
 87C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\async\allSeries.js133186011576860000 0
-87C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\doge_1-medium.79997cda.jpg133187149828655699 0
+87C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\doge_1-medium.79997cda.jpg133187159519705256 0
 109C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\hash\parcel-hash.darwin-x64.node133186011436070000 0
 81C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\async\any.js133186011576860000 0
 87C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\async\anySeries.js133186011576860000 0
@@ -6863,7 +6864,7 @@
 97C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\events\lib\errors.js133186011355690000 0
 84C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\async\filter.js133186011576860000 0
 114C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\package-manager\src\installPackage.js133186011359630000 0
-83C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\index.c92073ef.css.map133187149828385695 0
+83C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\index.c92073ef.css.map133187159520215309 0
 123C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\fs\node_modules\@parcel\utils\lib\index.js.map133186011144550000 0
 90C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\async\filterSeries.js133186011576860000 0
 82C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\async\find.js133186011576860000 0
@@ -7980,7 +7981,7 @@
 100C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\source-map\package.json133186011110010000 0
 109C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\source-map\parcel_sourcemap_wasm133185955001558425 1
 119C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node133186012164941113 1
-79C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\index.c92073ef.css133187149828105669 0
+79C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\index.c92073ef.css133187159519725268 0
 118C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web133186012164851130 1
 119C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\fs\node_modules\@parcel\utils\lib\index.js133186011144550000 0
 149C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm_bg.wasm133186011110010000 0
@@ -8941,6 +8942,7 @@
 117C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@jridgewell\resolve-uri\dist\resolve-uri.mjs.map133186011566240000 0
 120C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@jridgewell\resolve-uri\dist\resolve-uri.umd.js.map133186011566240000 0
 103C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@jridgewell\resolve-uri\dist\types133186012162130925 1
+82C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\docs\one-wide.1254d021.png133187160085049633 0
 120C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@jridgewell\resolve-uri\dist\types\resolve-uri.d.ts133186011566240000 0
 97C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@jridgewell\gen-mapping\dist133186012147929870 1
 105C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@jridgewell\gen-mapping\package.json133186011556330000 0
@@ -9007,7 +9009,7 @@
 113C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@eslint\eslintrc\dist\eslintrc-universal.cjs133186011263960000 0
 117C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@eslint\eslintrc\dist\eslintrc-universal.cjs.map133186011263960000 0
 107C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@eslint\eslintrc\dist\eslintrc.cjs.map133186011263960000 0
-85C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\doge_1-wide.a732a31d.jpg133187149828415687 0
+85C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\doge_1-wide.a732a31d.jpg133187159520035300 0
 106C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@eslint\eslintrc\conf\environments.js133186011263960000 0
 86C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@babel\code-frame133186012137909111 1
 85C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\node_modules\@babel\highlight133186012138889205 1
@@ -9129,18 +9131,19 @@
 78C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\docs\index.84255003.js133187146706684577 0
 84C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\docs\one-medium.2edf3e0c.png133187146706654566 0
 84C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\docs\one-mobile.09da4b0e.png133187146706654566 0
+83C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\docs\one-small.0eaab6a7.png133187160033675774 0
 83C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\docs\one-small.194dbd24.png133187146706654566 0
 82C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\docs\one-wide.de081e23.png133187147306862174 0
-93C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\ai2html-test-medium.c5d83cc8.png133187149828545711 0
-92C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\ai2html-test-small.c0ae25ee.png133187149828275688 0
-91C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\ai2html-test-wide.cbddd29e.png133187149828295686 0
-86C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\doge_1-small.141f0b12.jpg133187149828355683 0
-87C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\doge_2-medium.1df75734.jpg133187149828655699 0
-86C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\doge_2-small.c9c8875a.jpg133187149828385695 0
-86C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\doge_3-small.8a3e8793.jpg133187149828635720 0
-78C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\index.59a40e7a.js133187149827795634 0
-82C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\index.59a40e7a.js.map133187149827885645 0
-71C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\index.html133187149845843360 0
-84C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\one-medium.a8898930.png133187149828535698 0
-83C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\one-small.90f1ae59.png133187149828285702 0
-82C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\one-wide.6afd4099.png133187149828915718 0
+93C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\ai2html-test-medium.c5d83cc8.png133187159519545283 0
+92C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\ai2html-test-small.c0ae25ee.png133187159519805278 0
+91C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\ai2html-test-wide.cbddd29e.png133187159519785291 0
+86C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\doge_1-small.141f0b12.jpg133187159519865281 0
+87C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\doge_2-medium.1df75734.jpg133187159519695259 0
+86C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\doge_2-small.c9c8875a.jpg133187159519975288 0
+86C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\doge_3-small.8a3e8793.jpg133187159520235307 0
+78C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\index.59a40e7a.js133187159520195333 0
+82C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\index.59a40e7a.js.map133187159520315329 0
+71C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\index.html133187159521115355 0
+84C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\one-medium.a8898930.png133187159519545283 0
+83C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\one-small.90f1ae59.png133187159519815285 0
+82C:\Users\Jayesh\Documents\GitHub\Gaming-and-platfroms-1\dist\one-wide.6afd4099.png133187159520665368 0
